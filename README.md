@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=c,git,github,bash,linux,vim,vscode,ps" />
   </a>
 </p>
-
+<!---
 # Featured projects
 
 ## Common core - Level 0
@@ -35,6 +35,8 @@
 ## Common core - Level 4
 
 - [miniRT (in progress)](https://github.com/lodeme/miniRT)
+
+--->
 <!---
 urbanobazz/urbanobazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
