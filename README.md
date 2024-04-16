@@ -1,6 +1,5 @@
 # About me
-- 👋 Hi, I’m Urbano Jr
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Urbano Jr 
 - 🌱 I’m currently a software engineering student at 42 Berlin, after discovering my passion for programming. I mainly publish the projects I complete from the commom core of the school.
 
 # Skills
