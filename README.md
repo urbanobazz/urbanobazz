@@ -30,7 +30,7 @@
 ## Common core - Level 3
 
 - [Minishell](https://github.com/urbanobazz/Minishell)
-- [Philosophers](https://github.com/urbanobazz/Minishell)
+- [Philosophers](https://github.com/urbanobazz/Philosophers)
 
 ## Common core - Level 4
 
