@@ -33,7 +33,7 @@
 
 ## Common core - Level 4
 
-- [miniRT (in progress)](https://github.com/lodeme/miniRT)
+- [miniRT](https://github.com/lodeme/miniRT)
 
 <!---
 urbanobazz/urbanobazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
