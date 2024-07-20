@@ -33,7 +33,7 @@
 
 ## Common core - Level 4
 
-- [miniRT](https://github.com/lodeme/miniRT)
+- [miniRT](https://github.com/urbanobazz/miniRT)
 - [C++ 00 to 04](https://github.com/urbanobazz/CPP_Rank_04)
 
 ## Common core - Level 5
