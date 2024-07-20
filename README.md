@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m Urbano Jr
-I’m a software engineering student at 42 Berlin and this page is meant to display my progress in this new adventure.
+- I’m a software engineering student at 42 Berlin and this page is meant to display my progress in this new adventure.
 
 - Checkout my favorite project [miniRT](https://github.com/urbanobazz/miniRT).
 # Skills
