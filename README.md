@@ -38,7 +38,9 @@
 
 ## Common core - Level 5
 
-- [C++ 05 to 09 (in-progress)]()
+- [C++ 05 to 09](https://github.com/urbanobazz/cpp-rank05)
+- [Inception](https://github.com/urbanobazz/Inception)
+- [Webserv (in progress)]()
 
 <!---
 urbanobazz/urbanobazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
