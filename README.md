@@ -9,7 +9,9 @@
   </a>
 </p>
 
-# Featured projects
+- Checkout my favorite project [miniRT](https://github.com/urbanobazz/miniRT).
+
+# 42 projects
 
 ## Common core - Level 0
 
