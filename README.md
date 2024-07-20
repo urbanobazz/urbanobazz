@@ -1,15 +1,14 @@
 # About me
-- 👋 Hi, I’m Urbano Jr 
-- 🌱 I’m currently a software engineering student at 42 Berlin, after discovering my passion for programming. I mainly publish the projects I complete from the commom core of the school.
+- 👋 Hi, I’m Urbano Jr
+I’m a software engineering student at 42 Berlin and this page is meant to display my progress in this new adventure.
 
+- Checkout my favorite project [miniRT](https://github.com/urbanobazz/miniRT).
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,git,docker,github,bash,linux,vim,vscode,ps,blender,notion" />
   </a>
 </p>
-
-- Checkout my favorite project [miniRT](https://github.com/urbanobazz/miniRT).
 
 # 42 projects
 
