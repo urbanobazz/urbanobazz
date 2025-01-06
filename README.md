@@ -6,7 +6,7 @@
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,docker,github,bash,linux,vim,vscode,ps,blender,notion" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,django,git,docker,github,bash,linux,vim,vscode,ps,blender,notion" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 ## Common core - Level 6
 
-- [Transcendance (in progress)]()
+- [Transcendance (coming soon...)]()
 
 <!---
 urbanobazz/urbanobazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
