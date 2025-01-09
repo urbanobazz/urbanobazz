@@ -1,8 +1,7 @@
-# About me
-- 👋 Hi, I’m Urbano Jr
-- I’m a software engineering student at 42 Berlin and this page is meant to display my progress in this new adventure.
+# Hey there, welcome to my Page!
+- I’m a software engineering student at 42 Berlin and I'll be sharing everything what I worked on down below.
 
-- Checkout my favorite project [miniRT](https://github.com/urbanobazz/miniRT).
+- Checkout my favorite project, it's a Ray Trancing program written in C! [miniRT](https://github.com/urbanobazz/miniRT).
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
