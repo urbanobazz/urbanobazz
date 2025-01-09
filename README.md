@@ -45,7 +45,7 @@
 
 ## Common core - Level 6
 
-- [Transcendance (coming soon...)]()
+- [Transcendance](https://github.com/urbanobazz/Transcendence)
 
 <!---
 urbanobazz/urbanobazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
