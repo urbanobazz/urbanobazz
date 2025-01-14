@@ -1,5 +1,5 @@
 # Hey there, welcome to my Page!
-- I’m a software engineering student at 42 Berlin and I'll be sharing everything what I worked on down below.
+- I’m a software engineering student at 42 Berlin and I'll be sharing everything I worked on down below.
 
 - Checkout my favorite project, it's a Ray Trancing program written in C! [miniRT](https://github.com/urbanobazz/miniRT).
 # Skills
