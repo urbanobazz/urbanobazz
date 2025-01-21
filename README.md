@@ -13,38 +13,38 @@
 
 ## Common core - Level 0
 
-- [LIBFT](https://github.com/urbanobazz/Libft)
+- [LIBFT(C)](https://github.com/urbanobazz/Libft)
 
 ## Common core - Level 1
 
-- [ft_printf](https://github.com/urbanobazz/ft_printf)
-- [get_next_line](https://github.com/urbanobazz/get_next_line)
+- [ft_printf(C)](https://github.com/urbanobazz/ft_printf)
+- [get_next_line(C)](https://github.com/urbanobazz/get_next_line)
 
 ## Common core - Level 2
 
-- [push_swap](https://github.com/urbanobazz/push_swap)
-- [Minitalk](https://github.com/urbanobazz/Minitalk)
-- [so_long](https://github.com/urbanobazz/so_long)
+- [push_swap(C)](https://github.com/urbanobazz/push_swap)
+- [Minitalk(C)](https://github.com/urbanobazz/Minitalk)
+- [so_long(C)](https://github.com/urbanobazz/so_long)
 
 ## Common core - Level 3
 
-- [Minishell](https://github.com/urbanobazz/Minishell)
-- [Philosophers](https://github.com/urbanobazz/Philosophers)
+- [Minishell(C)](https://github.com/urbanobazz/Minishell)
+- [Philosophers(C)](https://github.com/urbanobazz/Philosophers)
 
 ## Common core - Level 4
 
-- [miniRT](https://github.com/urbanobazz/miniRT)
+- [miniRT(C)](https://github.com/urbanobazz/miniRT)
 - [C++ 00 to 04](https://github.com/urbanobazz/CPP_Rank_04)
 
 ## Common core - Level 5
 
 - [C++ 05 to 09](https://github.com/urbanobazz/cpp-rank05)
-- [Inception](https://github.com/urbanobazz/Inception)
-- [Webserv](https://github.com/evan-ite/webserv)
+- [Inception(Docker)](https://github.com/urbanobazz/Inception)
+- [Webserv(C++)](https://github.com/evan-ite/webserv)
 
 ## Common core - Level 6
 
-- [Transcendance](https://github.com/urbanobazz/Transcendence)
+- [Transcendance(Django/Python)](https://github.com/urbanobazz/Transcendence)
 
 <!---
 urbanobazz/urbanobazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
